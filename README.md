@@ -2,6 +2,10 @@
 
 A lightweight **vector graphics editor** built with **Python + Tkinter**, designed for creating and manipulating simple vector shapes on a canvas. The project focuses on a clean, modular architecture (manager-based design) and event-driven UI interactions.
 
+## Demo Video
+
+A short walkthrough of the project: https://youtu.be/RgjhnjOFvSc?si=jIKzHPsTQ6rUvzbH
+
 ## Features
 
 - **Freehand drawing** with adjustable line width.
